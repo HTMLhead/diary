@@ -1,2 +1,2 @@
 # diary
-일기장 프로그램
+diary program
